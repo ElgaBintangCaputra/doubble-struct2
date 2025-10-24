@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1761276545 source:c:\tugas cpp\double struct 2\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<algorithm>
+
